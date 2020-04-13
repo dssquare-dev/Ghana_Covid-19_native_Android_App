@@ -1,4 +1,4 @@
-# Not my project..  forked from this repository --> https://github.com/Samuelincoom/Ghana_Covid-19_native_Android_App
+# Not my personal project..  I forked it from this repository --> https://github.com/Samuelincoom/Ghana_Covid-19_native_Android_App
 
 Trying my hands on project too with this fork, thanks. I am Learning kotlin language through the code..
 
