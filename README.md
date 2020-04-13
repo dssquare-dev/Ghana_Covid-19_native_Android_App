@@ -1,4 +1,12 @@
-# Ghana_Covid-19_native_Android_App .. A Corona virus tracker.. Its automatically updated Data is specifically based on my homeland Ghana only
+Bored in quarantine i decided this saturday to create an app to auomaticaly display data of corona virus cases in my home country Ghana.. Since its not part of what i made for our clients from other countries....  Will be using the trending UI on github by rizmaula.. Will also build a Bot from to parse and scrape data from Ghana health services official website into the app in a way it can understand and display graph for Ghana
+
+# Completed
+
+# Extra stuff you can do to your fork of this repository in your free time
+- I've realized Ghana is now divided into 16 regions and not 10 previously... So Identify the GPS coordinates of these regions and pin cases on a map
+
+
+# Ghana_Covid-19_native_Android_App .. A Corona virus tracker.. the automatically updated Data is specifically based on my homeland Ghana only
 
 <a href="https://dl.orangedox.com/GhanaCovidCasesNativeApp" rel="nofollow">
 <img alt="Ghana corona tracker" src="https://i.ibb.co/8YDvwLw/trydemo.png">
