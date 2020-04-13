@@ -1,6 +1,7 @@
 Bored in quarantine i decided this saturday to create an app to auomaticaly display data of corona virus cases in my home country Ghana.. Since its not part of what i made for our clients from other countries....  Will be using the trending UI on github by rizmaula.. Will also build a Bot from to parse and scrape data from Ghana health services official website into the app in a way it can understand and display graph for Ghana
 
-# Completed
+# Completed (will be uploading json data from my bot in the other repository so you can also use for your fork of this project)
+
 
 # Extra stuff you can do to your fork of this repository in your free time
 - I've realized Ghana is now divided into 16 regions and not 10 previously... So Identify the GPS coordinates of these regions and pin cases on a map
