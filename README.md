@@ -1,9 +1,9 @@
-# Not my personal project..  I forked it from this repository --> https://github.com/Samuelincoom/Ghana_Covid-19_native_Android_App
+# Not my personal project..  I took it from this repository --> https://github.com/Samuelincoom/Ghana_Covid-19_native_Android_App
 
 Trying my hands on project too with this fork, thanks. I am Learning kotlin language through the code..
 
 
-<a href="https://dl.orangedox.com/GhanaCovidCasesNativeApp" rel="nofollow">
+<a href="https://dl.orangedox.com/AutoUpdateGhanaCovidGraphs" rel="nofollow">
 <img alt="Ghana corona tracker" src="https://i.ibb.co/8YDvwLw/trydemo.png">
 </a>
 
